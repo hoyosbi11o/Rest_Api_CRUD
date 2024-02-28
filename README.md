@@ -1,14 +1,14 @@
-## Integrantes
+# Integrantes
 * Angel Hoyos
 * Johan Cardenas
 * Sebastian Cortes
 * Santiago Uribe
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * Typescript
 * Express
 * Node.js
 * MongoDB
 
-# Testing
+## Testing
 *PostMan
